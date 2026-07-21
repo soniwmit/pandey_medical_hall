@@ -1,0 +1,6 @@
+{
+  "name": "Pandey Medical Hall",
+  "description": "Your trusted pharmacy in Pai Bigha, Bihar offering genuine medicines, healthcare products, baby care, surgical supplies, and easy WhatsApp order placement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
