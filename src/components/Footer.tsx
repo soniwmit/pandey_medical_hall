@@ -172,7 +172,7 @@ export default function Footer({ setActiveTab, openOrderForm }: FooterProps) {
         {/* Lower copyright bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-sans text-[10px] sm:text-xs text-slate-500 text-center sm:text-left">
-            © {new Date().getFullYear()} Pandey Medical Hall. All rights reserved. Sourced from authentic pharma distributors in Bihar. Developed by <a href="#" class="wmit-popup-trigger" target="_blank" rel="noopener noreferrer" className="text-brand-blue-500 hover:underline">WMIT</a>.
+            © {new Date().getFullYear()} Pandey Medical Hall. All rights reserved. Sourced from authentic pharma distributors in Bihar. Developed by <a href="#" class="wmit-popup-trigger" target="_blank">WMIT</a>.
           </p>
           
           <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2 font-sans text-[10px] sm:text-xs text-slate-500">
